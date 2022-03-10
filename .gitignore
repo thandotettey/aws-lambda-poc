@@ -78,6 +78,9 @@ typings/
 # Next.js build output
 .next
 
+# Mac DS_Store
+.DS_Store
+
 # Nuxt.js build / generate output
 .nuxt
 dist
